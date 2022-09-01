@@ -1,5 +1,6 @@
 # SE-Group42Project-PLUNK
-###This is the 2nd year group project for Software Engineering 
+### This is the 2nd year group project 
+
 
 ![Screenshot (286)](https://user-images.githubusercontent.com/84151287/187846899-51116e68-5a86-4d98-81dd-7f88e7f8d50c.png)
 
